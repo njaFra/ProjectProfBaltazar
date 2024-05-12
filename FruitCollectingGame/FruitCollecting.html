@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./FruitCollecting.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <video class="input_video" hidden></video>
+            <canvas class="output_canvas"></canvas>
+            <b class="textStyle" id="newGame">Nova igra</b>
+            <b class="textStyle" id="scoreView">0</b>
+            <b class="textStyle" id="gameOver">Game Over!</b>
+            <b class="textStyle" id="bestScoreLabel">Najbolji rezultati:</b>
+            <b class="textStyle" id="scoreList"></b>
+        </div>
+        <div id="mouse_pointer">
+            <img src="../pictures/basket.png" height="100%" width="auto" />
+        </div>
+    </body>
+
+    <script src="../MediaPipeScript/camera_utils.js"></script>
+    <script src="../MediaPipeScript/control_utils.js"></script>
+    <script src="../MediaPipeScript/drawing_utils.js"></script>
+    <script src="../MediaPipeScript/hands.js"></script>
+    <script src="./FruitCollecting.js"></script>
+</html>

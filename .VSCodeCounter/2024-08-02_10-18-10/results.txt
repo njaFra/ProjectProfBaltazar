@@ -1,0 +1,46 @@
+Date : 2024-08-02 10:18:10
+Directory : c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar
+Total : 14 files,  3885 codes, 26 comments, 109 blanks, all 4020 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      2,876 |          0 |          2 |      2,878 |
+| JavaScript |          7 |        646 |         26 |         90 |        762 |
+| HTML       |          4 |        294 |          0 |         17 |        311 |
+| CSS        |          1 |         69 |          0 |          0 |         69 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         14 |      3,885 |         26 |        109 |      4,020 |
+| . (Files)                                                                                |          3 |      2,999 |          0 |         12 |      3,011 |
+| CSSIgre                                                                                  |          1 |         69 |          0 |          0 |         69 |
+| HtmlIgre                                                                                 |          3 |        171 |          0 |          7 |        178 |
+| SkripteIgre                                                                              |          3 |        469 |          7 |         90 |        566 |
+| SkripteMediaPipe                                                                         |          4 |        177 |         19 |          0 |        196 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                 | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\CSSIgre\Crtanje.css               | CSS        |         69 |          0 |          0 |         69 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\HtmlIgre\Crtanje.html             | HTML       |         33 |          0 |          3 |         36 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\HtmlIgre\PadajucaIgra.html        | HTML       |         64 |          0 |          2 |         66 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\HtmlIgre\SkupljanjeBodova.html    | HTML       |         74 |          0 |          2 |         76 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteIgre\Crtanje.js            | JavaScript |        218 |          2 |         35 |        255 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteIgre\PadajucaIgra.js       | JavaScript |        101 |          5 |         22 |        128 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteIgre\SkupljanjeBodova.js   | JavaScript |        150 |          0 |         33 |        183 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteMediaPipe\camera_utils.js  | JavaScript |         19 |          4 |          0 |         23 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteMediaPipe\control_utils.js | JavaScript |         58 |          7 |          0 |         65 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteMediaPipe\drawing_utils.js | JavaScript |          9 |          4 |          0 |         13 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\SkripteMediaPipe\hands.js         | JavaScript |         91 |          4 |          0 |         95 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\package-lock.json                 | JSON       |      2,868 |          0 |          1 |      2,869 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\package.json                      | JSON       |          8 |          0 |          1 |          9 |
+| c:\Users\38595\Desktop\Moje\GIT.hr\ProjectProfBaltazar\temp.html                         | HTML       |        123 |          0 |         10 |        133 |
+| Total                                                                                    |            |      3,885 |         26 |        109 |      4,020 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

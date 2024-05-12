@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="./Drawing.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <video class="input_video" hidden></video>
+            <canvas class="output_canvas"></canvas>
+            <b class="textStyle" id="clear">Očisti pozadinu</b>
+            <b class="textStyle" id="pause">Pauziraj crtanje</b>
+            <b class="textStyle" id="save">Spremi crtež</b>
+            <b class="textStyle" id="current_colour">Trenutna boja:</b>
+            <b class="textStyle" id="line_thickness">Debljina linije:</b>
+            <b class="textStyle" id="line_plus">+</b>
+            <b class="textStyle" id="line_minus">-</b>
+            <b class="textStyle" id="line_thickness_number">2</b>
+            <div id="selected_colour"></div>
+
+            <div id="saved_images"></div>
+
+            <div class="default_colours" style="left: 15vw; background: green" id="green"></div>
+            <div class="default_colours" style="left: 20vw; background: blue" id="blue"></div>
+            <div class="default_colours" style="left: 25vw; background: red" id="red"></div>
+            <div class="default_colours" style="left: 30vw; background: yellow" id="yellow"></div>
+            <div class="default_colours" style="left: 35vw; background: white" id="white"></div>
+            <div class="default_colours" style="left: 40vw; background: black" id="black"></div>
+            <div
+                class="default_colours"
+                style="left: 45vw; background: linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo, violet)"
+                id="random_colour"
+            ></div>
+
+            <div class="RGB_selector" style="left: 50vw; background: red"><b class="textStyle" id="RGB_label">R</b></div>
+            <div class="RGB_selector" style="left: 55vw; background: green"><b class="textStyle" id="RGB_label">G</b></div>
+            <div class="RGB_selector" style="left: 60vw; background: blue"><b class="textStyle" id="RGB_label">B</b></div>
+            <b class="textStyle RGB_selector" style="left: 65vw; width: 10vw; height: auto; border: 0px">Završi odabir</b>
+        </div>
+        <div id="mouse_pointer">
+            <img src="../pictures/brush.png" height="100%" width="auto" />
+        </div>
+    </body>
+
+    <script src="../MediaPipeScript/camera_utils.js"></script>
+    <script src="../MediaPipeScript/control_utils.js"></script>
+    <script src="../MediaPipeScript/drawing_utils.js"></script>
+    <script src="../MediaPipeScript/hands.js"></script>
+    <script src="./Drawing.js"></script>
+</html>
